@@ -1,0 +1,53 @@
+.fond-gris
+{
+    height: 200px;
+    background-color: gray;
+    /* la width est a 100% de base */
+}
+.image_header
+{
+    
+}
+.new
+{
+    text-size-adjust: justify;
+    
+}
+p:hover
+{
+    border-left: 10px solid rgb(47, 89, 224);
+}
+a:visited
+{
+    color: blueviolet;
+}
+.fond-neige
+{
+    background-image: url(fondtexte.jpg)
+}
+.h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgoldenrod;
+    border-left: 5px solid rgb(255, 197, 5);
+}
+
+.fond-bleu
+{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.ul
+{
+    border: 6px rgb (54,54,54) double;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px black;
+}
+.fond-vert
+{
+    height: 200px;
+    background-color: gray;
+    /* la width est a 100% de base */
+}
